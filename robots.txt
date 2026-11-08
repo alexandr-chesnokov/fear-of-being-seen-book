@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexandr-chesnokov.github.io/fear-of-being-seen-book/sitemap.xml
